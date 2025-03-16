@@ -7,6 +7,7 @@ class AEGL{
     	
     	void crear();
     	void leer();
+    	
     	void actualizar();
     	void borrar();
 };
